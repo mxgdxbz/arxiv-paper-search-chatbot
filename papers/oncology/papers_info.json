@@ -1,0 +1,74 @@
+{
+  "2501.02346v1": {
+    "title": "Exploring the Capabilities and Limitations of Large Language Models for Radiation Oncology Decision Support",
+    "authors": [
+      "Florian Putz",
+      "Marlen Haderleina",
+      "Sebastian Lettmaier",
+      "Sabine Semrau",
+      "Rainer Fietkau",
+      "Yixing Huang"
+    ],
+    "summary": "Thanks to the rapidly evolving integration of LLMs into decision-support\ntools, a significant transformation is happening across large-scale systems.\nLike other medical fields, the use of LLMs such as GPT-4 is gaining increasing\ninterest in radiation oncology as well. An attempt to assess GPT-4's\nperformance in radiation oncology was made via a dedicated 100-question\nexamination on the highly specialized topic of radiation oncology physics,\nrevealing GPT-4's superiority over other LLMs. GPT-4's performance on a broader\nfield of clinical radiation oncology is further benchmarked by the ACR\nRadiation Oncology In-Training (TXIT) exam where GPT-4 achieved a high accuracy\nof 74.57%. Its performance on re-labelling structure names in accordance with\nthe AAPM TG-263 report has also been benchmarked, achieving above 96%\naccuracies. Such studies shed light on the potential of LLMs in radiation\noncology. As interest in the potential and constraints of LLMs in general\nhealthcare applications continues to rise5, the capabilities and limitations of\nLLMs in radiation oncology decision support have not yet been fully explored.",
+    "pdf_url": "http://arxiv.org/pdf/2501.02346v1",
+    "published": "2025-01-04"
+  },
+  "2209.01655v1": {
+    "title": "DROID: Dose-ranging Approach to Optimizing Dose in Oncology Drug Development",
+    "authors": [
+      "Beibei Guo",
+      "Ying Yuan"
+    ],
+    "summary": "In the era of targeted therapy, there has been increasing concern about the\ndevelopment of oncology drugs based on the \"more is better\" paradigm, developed\ndecades ago for chemotherapy. Recently, the US Food and Drug Administration\n(FDA) initiated Project Optimus to reform the dose optimization and dose\nselection paradigm in oncology drug development. To accommodate this paradigm\nshifting, we propose a dose-ranging approach to optimizing dose (DROID) for\noncology trials with targeted drugs. DROID leverages the well-established\ndose-ranging study framework, which has been routinely used to develop\nnon-oncology drugs for decades, and bridges it with established oncology\ndose-finding designs to optimize the dose of oncology drugs. DROID consists of\ntwo seamlessly connected stages. In the first stage, patients are sequentially\nenrolled and adaptively assigned to investigational doses to establish the\ntherapeutic dose range (TDR), defined as the range of doses with acceptable\ntoxicity and efficacy profiles, and the recommended phase 2 dose set (RP2S). In\nthe second stage, patients are randomized to the doses in RP2S to assess the\ndose-response relationship and identify the optimal dose. The simulation study\nshows that DROID substantially outperforms the conventional approach, providing\na new paradigm to efficiently optimize the dose of targeted oncology drugs.",
+    "pdf_url": "http://arxiv.org/pdf/2209.01655v1",
+    "published": "2022-09-04"
+  },
+  "2010.15922v4": {
+    "title": "A configurable computer simulation model for reducing patient waiting time in oncology departments",
+    "authors": [
+      "R. R. Corsini",
+      "A. Costa",
+      "S. Fichera",
+      "A. Pluchino"
+    ],
+    "summary": "Nowadays, the increase in patient demand and the decline in resources are\nlengthening patient waiting times in many chemotherapy oncology departments.\nTherefore, enhancing healthcare services is necessary to reduce patient\ncomplaints. Reducing the patient waiting times in the oncology departments\nrepresents one of the main goals of healthcare manager. Simulation models are\nconsidered an effective tool for identifying potential ways to improve patient\nflow in oncology departments. This paper presents a new agent-based simulation\nmodel designed to be configurable and adaptable to the needs of oncology\ndepartments which have to interact with an external pharmacy. When external\npharmacies are utilized, a courier service is needed to deliver the individual\ntherapies from the pharmacy to the oncology department. An oncology department\nlocated in southern Italy was studied through the simulation model and\ndifferent scenarios were compared with the aim of selecting the department\nconfiguration capable of reducing the patient waiting times.",
+    "pdf_url": "http://arxiv.org/pdf/2010.15922v4",
+    "published": "2020-10-29"
+  },
+  "2312.07026v1": {
+    "title": "A review of mechanistic learning in mathematical oncology",
+    "authors": [
+      "John Metzcar",
+      "Catherine R. Jutzeler",
+      "Paul Macklin",
+      "Alvaro K\u00f6hn-Luque",
+      "Sarah C. Br\u00fcningk"
+    ],
+    "summary": "Mechanistic learning, the synergistic combination of knowledge-driven and\ndata-driven modeling, is an emerging field. In particular, in mathematical\noncology, the application of mathematical modeling to cancer biology and\noncology, the use of mechanistic learning is growing. This review aims to\ncapture the current state of the field and provide a perspective on how\nmechanistic learning may further progress in mathematical oncology. We\nhighlight the synergistic potential of knowledge-driven mechanistic\nmathematical modeling and data-driven modeling, such as machine and deep\nlearning. We point out similarities and differences regarding model complexity,\ndata requirements, outputs generated, and interpretability of the algorithms\nand their results. Then, organizing combinations of knowledge- and data-driven\nmodeling into four categories (sequential, parallel, intrinsic, and extrinsic\nmechanistic learning), we summarize a variety of approaches at the interface\nbetween purely data- and knowledge-driven models. Using examples predominantly\nfrom oncology, we discuss a range of techniques including physics-informed\nneural networks, surrogate model learning, and digital twins. We see that\nmechanistic learning, with its intentional leveraging of the strengths of both\nknowledge and data-driven modeling, can greatly impact the complex problems of\noncology. Given the increasing ubiquity and impact of machine learning, it is\ncritical to incorporate it into the study of mathematical oncology with\nmechanistic learning providing a path to that end. As the field of mechanistic\nlearning advances, we aim for this review and proposed categorization framework\nto foster additional collaboration between the data- and knowledge-driven\nmodeling fields. Further collaboration will help address difficult issues in\noncology such as limited data availability, requirements of model transparency,\nand complex input data",
+    "pdf_url": "http://arxiv.org/pdf/2312.07026v1",
+    "published": "2023-12-12"
+  },
+  "2401.10995v1": {
+    "title": "The Radiation Oncology NLP Database",
+    "authors": [
+      "Zhengliang Liu",
+      "Jason Holmes",
+      "Wenxiong Liao",
+      "Chenbin Liu",
+      "Lian Zhang",
+      "Hongying Feng",
+      "Peilong Wang",
+      "Muhammad Ali Elahi",
+      "Hongmin Cai",
+      "Lichao Sun",
+      "Quanzheng Li",
+      "Xiang Li",
+      "Tianming Liu",
+      "Jiajian Shen",
+      "Wei Liu"
+    ],
+    "summary": "We present the Radiation Oncology NLP Database (ROND), the first dedicated\nNatural Language Processing (NLP) dataset for radiation oncology, an important\nmedical specialty that has received limited attention from the NLP community in\nthe past. With the advent of Artificial General Intelligence (AGI), there is an\nincreasing need for specialized datasets and benchmarks to facilitate research\nand development. ROND is specifically designed to address this gap in the\ndomain of radiation oncology, a field that offers many opportunities for NLP\nexploration. It encompasses various NLP tasks including Logic Reasoning, Text\nClassification, Named Entity Recognition (NER), Question Answering (QA), Text\nSummarization, and Patient-Clinician Conversations, each with a distinct focus\non radiation oncology concepts and application cases. In addition, we have\ndeveloped an instruction-tuning dataset consisting of over 20k instruction\npairs (based on ROND) and trained a large language model, CancerChat. This\nserves to demonstrate the potential of instruction-tuning large language models\nwithin a highly-specialized medical domain. The evaluation results in this\nstudy could serve as baseline results for future research. ROND aims to\nstimulate advancements in radiation oncology and clinical NLP by offering a\nplatform for testing and improving algorithms and models in a domain-specific\ncontext. The ROND dataset is a joint effort of multiple U.S. health\ninstitutions. The data is available at\nhttps://github.com/zl-liu/Radiation-Oncology-NLP-Database.",
+    "pdf_url": "http://arxiv.org/pdf/2401.10995v1",
+    "published": "2024-01-19"
+  }
+}
