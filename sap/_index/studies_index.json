@@ -1,0 +1,8 @@
+{
+  "sap_Merck-phase3-oncology-melanoma-Pembrolizumab": {
+    "detected_phase": "Phase III",
+    "detected_therapeutic": "Oncology",
+    "detected_indication": "Melanoma",
+    "source_file": "sap/Merck-phase3-oncology-melanoma-Pembrolizumab.pdf"
+  }
+}

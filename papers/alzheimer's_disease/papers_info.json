@@ -1,0 +1,12 @@
+{
+  "2111.08794v2": {
+    "title": "Investigating Conversion from Mild Cognitive Impairment to Alzheimer's Disease using Latent Space Manipulation",
+    "authors": [
+      "Deniz Sezin Ayvaz",
+      "Inci M. Baytas"
+    ],
+    "summary": "Alzheimer's disease is the most common cause of dementia that affects\nmillions of lives worldwide. Investigating the underlying causes and risk\nfactors of Alzheimer's disease is essential to prevent its progression. Mild\nCognitive Impairment (MCI) is considered an intermediate stage before\nAlzheimer's disease. Early prediction of the conversion from the MCI to\nAlzheimer's is crucial to take necessary precautions for decelerating the\nprogression and developing suitable treatments. In this study, we propose a\ndeep learning framework to discover the variables which are identifiers of the\nconversion from MCI to Alzheimer's disease. In particular, the latent space of\na variational auto-encoder network trained with the MCI and Alzheimer's\npatients is manipulated to obtain the significant attributes and decipher their\nbehavior that leads to the conversion from MCI to Alzheimer's disease. By\nutilizing a generative decoder and the dimensions that lead to the Alzheimer's\ndiagnosis, we generate synthetic dementia patients from MCI patients in the\ndataset. Experimental results show promising quantitative and qualitative\nresults on one of the most extensive and commonly used Alzheimer's disease\nneuroimaging datasets in literature.",
+    "pdf_url": "http://arxiv.org/pdf/2111.08794v2",
+    "published": "2021-11-16"
+  }
+}

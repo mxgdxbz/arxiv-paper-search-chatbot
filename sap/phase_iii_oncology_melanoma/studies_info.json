@@ -1,0 +1,18 @@
+{
+  "Merck-phase3-oncology-melanoma-Pembrolizumab": {
+    "title": "NCT number:  NCT02362594",
+    "pharma": "Merck protocol MK-3475 -054-03",
+    "study_design": "randomized, double-blind Phase 3 trial of the EORTC \nMelanoma Group\n EORTC  \nAvenue E",
+    "study_treatment": "Study drugs will be administered for 1 year unless one of the",
+    "study_visit": "Follow up evaluations for patients who discontinue Part 1due recurrence",
+    "primary_analysis_endpoint": "\u2666 Recurrence -free survival (RFS )",
+    "primary_analysis_approach": "Not specified",
+    "sample_size": "450",
+    "imputation_method": "mized",
+    "search_phase": "Phase III",
+    "search_therapeutic": "Oncology",
+    "search_indication": "Melanoma",
+    "detected_indication": "Melanoma",
+    "source_file": "sap/Merck-phase3-oncology-melanoma-Pembrolizumab.pdf"
+  }
+}
